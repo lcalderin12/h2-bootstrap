@@ -1,0 +1,36 @@
+body    {
+
+    background-image: url(https://i.pinimg.com/originals/3b/85/cb/3b85cb19886d7c76f6939d12648bcaec.jpg);
+}
+
+.container {
+    background-color: white; 
+    float: left;
+    margin-bottom: 20px;
+
+}
+
+h1  {
+    color: teal;font-size:xx-large;
+    
+}
+
+
+img {
+    margin: 10px;
+}
+img:hover   {
+    background-color: blue;
+}
+
+p   {
+    font-family: cursive;
+    margin-right: 10opx;
+
+}
+
+.box    {
+    width: 1024px;
+    margin: 50px;
+    border: 50px;
+}

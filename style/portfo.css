@@ -1,0 +1,44 @@
+.sub    {
+    margin-left: 700px;
+}
+
+body    {
+    background-image: url(https://images.wallpapersden.com/image/download/synthwave-4k_66224_1080x1920.jpg); 
+}
+
+.container {
+    background-color: white; 
+    float: left;
+    margin-bottom: 20px;
+}
+
+h1  {
+    color: teal;
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid;
+}
+
+img {
+    margin: 5px;
+    border: 5px;
+    padding: 0px;
+    margin-right: 15px;
+    position: relative;
+}
+
+img:hover   {
+    background-color: blue;
+}
+
+p   {
+    font-family: cursive;
+    margin-right: 10opx;
+
+}
+
+.box    {
+    width: 375px;
+    margin: 50px;
+    border: 50px;
+}
